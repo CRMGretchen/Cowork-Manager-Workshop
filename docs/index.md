@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Copilot Cowork Manager Session
+  name: Autonomous Work with Cowork & Scout
   text: Learn by doing
   tagline: Hands-on, guided exercises for delegating real work to Microsoft 365 Copilot Cowork.
   image:

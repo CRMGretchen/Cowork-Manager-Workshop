@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "Copilot Cowork Manager Session",
+  title: "Autonomous Work with Cowork & Scout",
   description:
     "Hands-on flights for building real AI skills with Microsoft 365 Copilot Cowork.",
   base: "/Cowork-Manager-Workshop/",
