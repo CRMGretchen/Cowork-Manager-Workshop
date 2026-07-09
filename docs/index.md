@@ -101,10 +101,10 @@ hero:
   <a class="lab-card" href="/Cowork-Manager-Workshop/orientation/">
     <span class="lab-card-meta">
       <span class="lab-card-badge">Flight 01</span>
-      <span class="lab-card-time">⏱️ 15 min</span>
+      <span class="lab-card-time">⏱️ 10 min</span>
     </span>
     <span class="lab-card-emoji">✈️</span>
-    <span class="lab-card-title">Scheduling a Team Meeting</span>
+    <span class="lab-card-title">Team Meeting Prep with Cowork</span>
     <span class="lab-card-desc">Review a scheduled meeting with agenda and invites, then build your own — find a time, draft the agenda, and capture notes automatically.</span>
     <span class="lab-card-cta">Start flight →</span>
   </a>
@@ -114,21 +114,21 @@ hero:
       <span class="lab-card-time">⏱️ 10 min</span>
     </span>
     <span class="lab-card-emoji">🛠️</span>
-    <span class="lab-card-title">One-on-One Prep</span>
+    <span class="lab-card-title">One-on-One Prep with Cowork</span>
     <span class="lab-card-desc">Build the automation, then scale it across your team — schedule meetings, deliver personalized prep briefs, and generate meeting recaps.</span>
     <span class="lab-card-cta">Start flight →</span>
   </a>
-  <a class="lab-card" href="/Cowork-Manager-Workshop/make-it-your-own/">
-    <span class="lab-card-meta">
-      <span class="lab-card-badge">Flight 03</span>
-      <span class="lab-card-time">⏱️ 10 min</span>
-    </span>
-    <span class="lab-card-emoji">🚀</span>
-    <span class="lab-card-title">Make It Your Own</span>
-    <span class="lab-card-desc">Take the controls and pick your path: build your own custom skill, or hand Cowork a whole job to run.</span>
-    <span class="lab-card-cta">Start flight →</span>
-  </a>
 </div>
+
+<a class="bonus-card" href="/Cowork-Manager-Workshop/make-it-your-own/">
+  <span class="bonus-card-emoji">🚀</span>
+  <span class="bonus-card-body">
+    <span class="bonus-card-badge">Optional · take it home</span>
+    <span class="bonus-card-title">Explore Microsoft Scout</span>
+    <span class="bonus-card-desc">Take the controls and pick your path: build your own custom skill, or hand Cowork a whole job to run.</span>
+  </span>
+  <span class="bonus-card-cta">Explore →</span>
+</a>
 
 <a class="bonus-card" href="/Cowork-Manager-Workshop/learn-cowork-with-cowork/">
   <span class="bonus-card-emoji">🎓</span>
